@@ -1,6 +1,6 @@
 # Kaggle-Dataset-Solutions
 
-**Kaggle Profile Link : ** https://www.kaggle.com/nishkarshtripathi
+**Kaggle Profile Link :** https://www.kaggle.com/nishkarshtripathi
 
 Working on Kaggle datasets with Indepth EDA, Preprocessing and Predictive Modelling!
 
