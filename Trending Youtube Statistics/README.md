@@ -18,8 +18,8 @@ The data also includes a category_id field, which varies between regions. To ret
 
 For more information on specific columns in the dataset refer to the column metadata.
 
-### Acknowledgements
-This dataset was collected using the YouTube API.
-
 
 **Exploratory Data Analysis** - https://www.kaggle.com/nishkarshtripathi/extensive-eda-squeezing-insights
+
+### Acknowledgements
+This dataset was collected using the YouTube API.
